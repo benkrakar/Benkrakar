@@ -49,9 +49,9 @@
 <a href = "https://www.linkedin.com/in/benkrakar-walid-b86a59184/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 </p>
-
-<p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=benkrakar&show_icons=true&locale=en" alt="benkrakar" /></p>
+<div align="center" >
+<p >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=benkrakar&show_icons=true&locale=en" alt="benkrakar" /></p>
 <br/>
 <a href="https://app.daily.dev/benkrakar"><img src="https://api.daily.dev/devcards/8440748431114ab98044f5a3e63a4ea0.png?r=egi" width="400" alt="BENKRAKAR's Dev Card"/></a>
-
+</div>
 
