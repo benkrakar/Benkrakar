@@ -51,7 +51,5 @@
 </p>
 <div align="center" >
 <p >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=benkrakar&show_icons=true&locale=en" alt="benkrakar" /></p>
-<br/>
-<a href="https://app.daily.dev/benkrakar"><img src="https://api.daily.dev/devcards/8440748431114ab98044f5a3e63a4ea0.png?r=7n7" width="400" alt="BENKRAKAR's Dev Card"/></a>
 </div>
 
