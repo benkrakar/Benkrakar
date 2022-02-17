@@ -7,12 +7,11 @@
 ##  🙋‍♂️ About Me 
 
 
-<p align="center"> 🌱 I’m currently learning **MERN stack.** </p>
+-🌱 I’m currently learning **MERN stack.** 
 
+- 📫 How to reach me **benkrakarwalid44@gmail.com** 
 
-<p align="center"> 📫 How to reach me **benkrakarwalid44@gmail.com** </p>
-
-<p align="center"> ⚡ Fun fact **I love to watch movies, play video games, listen music.** </p>
+- ⚡ Fun fact **I love to watch movies, play video games, listen music.**  
 
 ## 🚀 Programming Languages:
 <p align="center"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
