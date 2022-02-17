@@ -4,7 +4,7 @@
 <h3 align="center">I'm a  Full Stack Developer from Morocco.</h3>
 
 
-## 🙋‍♂️ About Me
+<p align="center">  ## 🙋‍♂️ About Me </p>
 
 
 <p align="center"> 🌱 I’m currently learning **MERN stack.** </p>
