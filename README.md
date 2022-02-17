@@ -7,7 +7,7 @@
 ##  🙋‍♂️ About Me 
 
 
--🌱 I’m currently learning **MERN stack.** 
+- 🌱 I’m currently learning **MERN stack.** 
 
 - 📫 How to reach me **benkrakarwalid44@gmail.com** 
 
