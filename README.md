@@ -50,7 +50,12 @@
 </p>
 <br/>
 <div align="center" >
-<p >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=benkrakar&show_icons=true&locale=en" alt="benkrakar" /></p>
-
+<div align="center">
+  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aralroca&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+  <br />
+  <small>Languages used in my public repos - big fan of JavaScript 😛</small>
+  <br />
+  <br />
+</div>
 </div>
 
