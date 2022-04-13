@@ -51,7 +51,7 @@
 <br/>
 <div align="center" >
 <!-- <p >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=benkrakar&show_icons=true&locale=en" alt="benkrakar" /></p> -->
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=benkrakar&hide=contribs,prs)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=benkrakar)](https://github.com/benkrakar/github-readme-stats)
 
 </div>
 
