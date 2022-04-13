@@ -50,6 +50,8 @@
 </p>
 <br/>
 <div align="center" >
-<p >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=benkrakar&show_icons=true&locale=en" alt="benkrakar" /></p>
+<!-- <p >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=benkrakar&show_icons=true&locale=en" alt="benkrakar" /></p> -->
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=benkrakar&hide=contribs,prs)
+
 </div>
 
