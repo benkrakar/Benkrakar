@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, I'm Benkrakar Walid</h1>
+<h1 align="center">Hi 👋, I'm Benkrakar Walid</h1>
 <h3 align="center">I am a Full Stack Developer based in Morocco. Used to develop modern web applications under Agile and Scrum methodologies with Git workflow. I enjoy creating beautiful, simple and elegant things and always pay attention to details with a creative mind.</h3>
 
 ## 📈 Github Stats
@@ -53,7 +53,7 @@
 
 <br/>
 
-## Connect with me:
+## 🪶🪶Connect with me:
 <p align="center">
 <a href="https://twitter.com/benkrakarw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="benkrakarw" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/benkrakar walid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="benkrakar walid" height="30" width="40" /></a>
