@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="100px">, I'm Benkrakar Walid</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, I'm Benkrakar Walid</h1>
 <h3 align="center">I am a Full Stack Developer based in Morocco. Used to develop modern web applications under Agile and Scrum methodologies with Git workflow. I enjoy creating beautiful, simple and elegant things and always pay attention to details with a creative mind.</h3>
 
 ## 📈 Github Stats
