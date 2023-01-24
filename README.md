@@ -59,4 +59,8 @@
 </p>
 <br/>
 
-
+<style>
+.astro-img{
+background: white;
+}
+</style>
