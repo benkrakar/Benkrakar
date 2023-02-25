@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm < Benkrakar Walid /> </h1>
+<h1 align="center">Hi 👋, I'm < BENKRAKAR WALID /> </h1>
 <h3 align="center">I am a Full Stack Developer based in Morocco. Used to develop modern web applications under Agile and Scrum methodologies with Git workflow. I enjoy creating beautiful, simple and elegant things and always pay attention to details with a creative mind.</h3>
 
 ## 📈 Github Stats
