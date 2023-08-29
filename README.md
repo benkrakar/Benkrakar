@@ -23,14 +23,6 @@
   </p>
 </details>
 
-<details> 
-  <summary>📈 Activity Graph</summary>
-  <br/>
-  <p align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Benkrakar&theme=github" alt="Benkrakar's GitHub activity graph"/>
-  </p>
-</details>
-
 <br/>
 
 ## 🚀 Expertise
