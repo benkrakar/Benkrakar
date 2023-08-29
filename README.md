@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm < BENKRAKAR WALID /> </h1>
-<h3 align="center">I am a Front End Developer based in Morocco. Used to develop modern web applications under Agile and Scrum methodologies with Git workflow. I enjoy creating beautiful, simple and elegant things and always pay attention to details with a creative mind.</h3>
+<h1 align="center">Greetings! 👋 < BENKRAKAR WALID /> </h1>
+<h1 align="center">I'm Walid, a Front End Engineer 🚀</h1>
+
+<h3 align="center">Crafting flawless user experiences through code ✨ | Transforming concepts into responsive web solutions ☕ | Moroccan developer with a global vision 🌍</h3>
+
 
 ## 📈 Github Stats
 
